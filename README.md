@@ -54,6 +54,6 @@ I trained these models using using training data (randomly selected from the who
 I also trained these models using scaled and unscaled data.
 Finally I tried dropping one or two feature(s) to see if it improved the results of the models.
 
-## Results
-The reuslts showed that removing features X2 and X4 (the lowest on the chi square importance ranking) helping bring the accuracy above the target of 73%, using the Logistic regression model.
+## Conclusion
+The results showed that removing features X2 and X4 (the lowest on the chi square importance ranking) helping bring the accuracy above the target of 73%, using the Logistic regression model.
 These questions can therefore be removed from the questionaire.
