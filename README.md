@@ -49,7 +49,7 @@ This exploration showed there was no missing data.
 I then looked at histograms of the distribution of each of the features to better understand the dataset, as well as analyzed the feature importance for each 6 features.
 
 ## Building models
-I then built several models: Logistic regression, KNN, Decision tree, Random forest, Gradient boostibng, and XGboost.
+I then built several models: Logistic regression, KNN, Decision tree, Random forest, Gradient boosting, and XGboost.
 I trained these models using using training data (randomly selected from the whole dataset) at both a 80% and 75% split.
 I also trained these models using scaled and unscaled data.
 Finally I tried dropping one or two feature(s) to see if it improved the results of the models.
